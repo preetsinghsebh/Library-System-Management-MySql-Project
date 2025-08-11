@@ -34,15 +34,8 @@ The database schema is designed to be scalable, normalized, and efficient for re
 
 🚀 Getting Started
 
-1️⃣ Clone the repository
+🌟 Clone the repository
 https://github.com/preetsinghsebh/Library-System-Management-MySql-Project.git
-
-2️⃣ Import the database
-
-In MySQL Workbench or terminal:
-SOURCE LibrarySystemManagementProject.sql;
-
-3️⃣ Run Queries
 
 You can execute:
 	•	Book search queries
