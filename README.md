@@ -32,8 +32,6 @@ The database schema is designed to be scalable, normalized, and efficient for re
 
 ⸻
 
-🚀 Getting Started
-
 🌟 Clone the repository
 https://github.com/preetsinghsebh/Library-System-Management-MySql-Project.git
 
